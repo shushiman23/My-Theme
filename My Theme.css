@@ -131,3 +131,7 @@ body {
 [aria-label="Disconnect"]{
     background: #1d0004 !important;
 }
+
+[aria-label="Turn Off Camera"]{
+    background: #1d0004 !important;
+}
