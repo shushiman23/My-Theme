@@ -148,3 +148,8 @@ body {
 .border_db83a2.speaking_db83a2 {
   box-shadow: 0 0 0 2px #8d1d19 !important; /* Change #ff0000 to your desired color */
 }
+
+[class*="channelMention"] {
+      background: #1d0004;
+      color: #8d1d19;
+  }
