@@ -153,3 +153,29 @@ body {
       background: #1d0004;
       color: #8d1d19;
   }
+
+[class*="message_d5deea cozyMessage_d5deea ephemeral_d5deea groupStart_d5deea wrapper_f9f2ca cozy_f9f2ca zalgo_f9f2ca"] {
+    background: #000000;
+}
+
+
+[class*="anchor_af404b anchorUnderlineOnHover_af404b"] {
+    color: #8d1d19;
+}
+
+.icon_d76df7 {
+    filter: brightness(0) saturate(100%) invert(10%) sepia(85%) saturate(4500%) hue-rotate(-5deg) brightness(75%) contrast(110%);
+}
+
+
+[aria-label="Join Call"]{
+    background: #8d1d19 !important;
+}
+
+[aria-label="Join Video Call"]{
+    background: #8d1d19 !important;
+}
+
+.colorable_ef18ee.green_ef18ee .centerIcon_ef18ee {
+    color: #1d0004;
+}
