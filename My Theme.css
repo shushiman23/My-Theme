@@ -111,9 +111,9 @@
       color: #8d1d19;
   }
   
-  [class^=botTag_],[class^=botTagCozy_]{
-      background: #8d1d19 !important ;
-  }
+  [class^=botTag_], [class^=botTagCozy_], [class^=botTagCompact_]{
+    background: #8d1d19 !important ;
+}
 
 body {
       --guild-boosting-blue: #8d1d19;
