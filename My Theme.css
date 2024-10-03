@@ -125,9 +125,5 @@ body {
 }
 
 .colorable_ef18ee.white_ef18ee .centerIcon_ef18ee{
-    color: white !important;
-}
-
-.lottieIcon_f73ef7 {
-  fill: #000000 !important; /* Change to your desired color */
+    color: #000000 !important;
 }
