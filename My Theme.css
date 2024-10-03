@@ -135,3 +135,7 @@ body {
 [aria-label="Turn Off Camera"]{
     background: #1d0004 !important;
 }
+
+[aria-label="More Options"]{
+    background: #8d1d19 !important;
+}
