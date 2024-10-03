@@ -127,3 +127,7 @@ body {
 .colorable_ef18ee.white_ef18ee .centerIcon_ef18ee{
     color: #8d1d19 !important;
 }
+
+[aria-label="Disconnect"]{
+    background: #1d0004 !important;
+}
