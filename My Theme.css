@@ -211,3 +211,39 @@ body {
 .lottieIcon_f73ef7 :not(defs *)[stroke][stroke-opacity] {
     stroke: #8d1d19;
 }
+
+[class*="wrapper_bf1b19"] {
+    background: #1d0004;
+}
+
+[aria-label="More Options"]{
+    background: #8d1d19 !important;
+}
+
+.iconBadge_c96c45.isCurrentUserConnected_c96c45 {
+    background-color: #8d1d19 !important;
+}
+
+.icon_df8943 {
+    color: #1d0004 !important;
+}
+
+.numberBadge_df8943 {
+    color: #1d0004 !important;
+}
+
+.baseShapeRound_df8943 {
+    background: #8d1d19 !important;
+}
+
+[class*="staticButton_ef18ee centerButton_ef18ee colorable_ef18ee red_ef18ee button_dd4f85 lookBlank_dd4f85 colorBrand_dd4f85"] {
+    background: #8d1d19 !important;
+}
+
+.controlIcon_ef18ee {
+    color: #1d0004 !important;
+}
+
+.icon_e40c16 {
+    color: #8d1d19 !important;
+}
