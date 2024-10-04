@@ -257,5 +257,9 @@ body {
 }
 
 .botText_a9e77f {
-    color: #1d0004
+    color: #1d0004 !important;
+}
+
+.botTagRegular_a9e77f {
+    background: #8d1d19 !important;
 }
