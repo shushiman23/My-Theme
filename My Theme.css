@@ -179,3 +179,35 @@ body {
 .colorable_ef18ee.green_ef18ee .centerIcon_ef18ee {
     color: #1d0004;
 }
+
+[class*="container_adcaac"] {
+    background: #000000 !important;
+}
+
+[class*="rtcConnectionStatusConnected_c02c63 rtcConnectionStatusLabel_c02c63 hoverableStatus_dcb18f hoverRoll_e07331"] {
+    color: #8d1d19 !important;
+}
+
+[class*="controlIcon_ef18ee themeable_ef18ee"] {
+    color: #8d1d19 !important;
+}
+
+[aria-label="Open Soundboard"]{
+    background: #1d0004 !important;
+}
+
+[aria-label="Start An Activity"]{
+    background: #1d0004 !important;
+}
+
+[aria-label="Share Your Screen"]{
+    background: #1d0004 !important;
+}
+
+[aria-label="Turn On Camera"]{
+    background: #1d0004 !important;
+}
+
+.lottieIcon_f73ef7 :not(defs *)[stroke][stroke-opacity] {
+    stroke: #8d1d19;
+}
