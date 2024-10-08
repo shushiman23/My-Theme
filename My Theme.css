@@ -263,3 +263,52 @@ body {
 .botTagRegular_a9e77f {
     background: #8d1d19 !important;
 }
+
+[class*="container_cebd1c default-colors checked_cebd1c"] {
+    background: #8d1d19 !important;
+}
+
+[class*="item_c2739c addFriend_c2739c item_a0 themed_a0"] {
+    background: #8d1d19 !important;
+}
+
+.lookFilled_dd4f85.colorBrand_dd4f85:disabled, .lookFilled_dd4f85.colorBrand_dd4f85[aria-disabled=true] {
+    background-color: #8d1d19 !important;
+}
+
+[class*="checkbox_f6cde8 box_f6cde8 checked_f6cde8"] {
+    border-color: #8d1d19 !important;
+    background: #8d1d19 !important;
+}
+
+.selectorButton_a78967.selectorButtonSelected_a78967:before {
+    background: #8d1d19 !important;
+}
+
+.selectedIcon_f6639d {
+    color: #8d1d19 !important;
+}
+
+.disabledButtonOverlay_dd4f85 {
+    background: #000000 !important;
+}
+
+.textBadge_df8943 {
+    background: #8d1d19 !important;
+    color: #1d0004 !important;
+}
+
+[class*="members_cbd271 thin_eed6a8 scrollerBase_eed6a8 fade_eed6a8 customTheme_eed6a8"] {
+    overflow-x: hidden !important;
+    overflow-y: overlay !important;
+    scrollbar-width: none !important;
+}
+
+#vc-spotify-progress-bar:hover>[class^=slider] [class^=grabber] {
+    background: #8d1d19 !important;
+    border-color: #8d1d19 !important;
+}
+
+.vc-spotify-button:hover {
+    background-color: #1d0004 !important;
+}
