@@ -312,3 +312,23 @@ body {
 .vc-spotify-button:hover {
     background-color: #1d0004 !important;
 }
+
+[aria-label='Send a gift'] {
+  display: none !important;
+}
+
+.unread_edf32f {
+    background-color: #8d1d19 !important;
+}
+
+[class*="replying_"] {
+    background-color: #1d0004 !important;
+}
+
+[class*="replying_"]::before {
+    background-color: #8d1d19;
+}
+
+.themedBackground_bdf0de {
+    background: #000000 !important;
+}
