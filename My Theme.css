@@ -329,6 +329,10 @@ body {
     background-color: #8d1d19;
 }
 
+[class*="inner__74017 sansAttachButton__74017"] {
+    background: #1d0004 !important;
+}
+
 .themedBackground__74017 {
     background: #000000 !important;
 }
